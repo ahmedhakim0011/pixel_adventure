@@ -1,4 +1,4 @@
-# kiddo_tales_hub
+# Pixel Adventure
 
 A new Flutter project.
 
