@@ -1,6 +1,6 @@
 # Pixel Adventure
 
-A new Flutter project.
+Welcome to this your own game using Flutter and Flame! In this project, we'll guide you through the process of creating a captivating game from scratch, utilizing the power of Flutter's UI framework and Flame's game engine.
 
 ## Getting Started
 
